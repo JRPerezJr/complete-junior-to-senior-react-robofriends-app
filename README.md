@@ -53,9 +53,6 @@ yarn test
 * Github: [@JRPerezJr](https://github.com/JRPerezJr)
 * LinkedIn: [@devjperez](https://linkedin.com/in/devjperez)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app/issues). 
 
 ## Show your support
 
