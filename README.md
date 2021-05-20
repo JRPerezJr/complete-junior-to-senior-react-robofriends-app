@@ -17,7 +17,10 @@
   </a>
 </p>
 
-> A React project for learning the React basic concepts.
+>Robofriends is a React website that uses the [jsonplaceholder api](https://jsonplaceholder.typicode.com/users) to fetch a list of users and display them by passing the data down to the React components.
+
+## Architectural Map
+<p align="center"><img src="https://user-images.githubusercontent.com/19915910/118916496-08c91580-b96a-11eb-895f-1cbd0cf8e63d.jpg" alt="nasa project architectural map" height="100%"/></p>
 
 ### 🏠 [Homepage](https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app)
 
