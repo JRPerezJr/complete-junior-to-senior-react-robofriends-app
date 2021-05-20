@@ -22,6 +22,8 @@
 ## Architectural Map
 <p align="center"><img src="https://user-images.githubusercontent.com/19915910/118916496-08c91580-b96a-11eb-895f-1cbd0cf8e63d.jpg" alt="nasa project architectural map" height="100%"/></p>
 
+Created on [Figma](https://www.figma.com)
+
 ### 🏠 [Homepage](https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app)
 
 ## Prerequisites
