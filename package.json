@@ -1,7 +1,22 @@
 {
-  "name": "robohomies",
-  "version": "0.1.0",
+  "name": "robofriends",
   "private": true,
+  "version": "1.0.0",
+  "description": "A React project for learning the React basic concepts.",
+  "author": "Juan Perez Jr.",
+  "license": "MIT",
+  "homepage": "https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app/issues"
+  },
+  "engines": {
+    "node": "14.17.0",
+    "npm": "6.14.13"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
