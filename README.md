@@ -27,7 +27,7 @@ Created on [Figma](https://www.figma.com)
 
 ### 🏠 [Homepage](https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app)
 
-## Technologies & Libraries Utilized:
+## Technologies & Libraries Utilized
 
 React, Tachyons
 
