@@ -1,4 +1,4 @@
-import CHANGE_SEARCHFIELD from './constants';
+import { CHANGE_SEARCHFIELD } from './constants';
 const initialState = {
   searchField: '',
 };
