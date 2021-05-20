@@ -10,7 +10,7 @@
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app/blob/master/LICENSE" target="_blank">
-    <img alt="License: MIT" src="https://github.com/JRPerezJr/complete-junior-to-senior-react-robofriends-app/blob/main/LICENSE" />
+    <img alt="License: MIT" src="https://img.shields.io/github/license/JRPerezJr/robofriends" />
   </a>
   <a href="https://twitter.com/SecDevTokyo" target="_blank">
     <img alt="Twitter: SecDevTokyo" src="https://img.shields.io/twitter/follow/SecDevTokyo.svg?style=social" />
