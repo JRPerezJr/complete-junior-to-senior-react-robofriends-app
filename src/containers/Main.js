@@ -3,7 +3,6 @@ import { connect } from 'react-redux';
 import { setSearchField, requestRobots } from '../actions';
 
 import MainPage from '../components/MainPage';
-// import './Main.css';
 
 class Main extends React.Component {
   render() {
