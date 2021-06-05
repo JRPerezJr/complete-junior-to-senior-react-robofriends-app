@@ -1,6 +1,6 @@
 import React from 'react';
 import { shallow } from 'enzyme';
-import CardList from './CarList';
+import CardList from '../components/CarList';
 
 describe('<CardList/> component tests', () => {
   it('sanity test', () => {
