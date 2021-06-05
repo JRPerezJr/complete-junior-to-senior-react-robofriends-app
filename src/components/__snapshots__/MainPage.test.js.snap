@@ -1,3 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<MainPage/> component tests renders MainPage component without crashing 1`] = `ShallowWrapper {}`;
+
+exports[`<MainPage/> component tests should render <h1>Loading..</h1> if isPending true 1`] = `
+<h1
+  className="tc"
+>
+  Loading...
+</h1>
+`;
